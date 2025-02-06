@@ -1,4 +1,4 @@
-# Project Title: Assignment API
+# Assignment API
 
 ## Description
 API endpoints for mathematical computations: Fibonacci sequence generation, prime number checking, and factorial calculation.
@@ -81,4 +81,5 @@ Create an endpoint that calculates the factorial of a given number.
 }
 ```
 
+# assignments
 # assignments
